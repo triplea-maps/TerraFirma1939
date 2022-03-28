@@ -1,0 +1,4 @@
+map_name: TerraFirma1939
+games:
+- {game_name: TerraFirma, file_name: TerrraFirma.xml}
+version: 0
